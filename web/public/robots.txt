@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+Sitemap: http://www.example.com/sitemap.xml
+User-agent: *
+Allow: /
